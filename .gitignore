@@ -3,3 +3,4 @@ dataset/v1.0-trainval-label/
 model/yolov5lu.pt
 model/yolov5xu.pt
 model/yolov8x.pt
+*.mp4
