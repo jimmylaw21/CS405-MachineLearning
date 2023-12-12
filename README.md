@@ -31,4 +31,4 @@ video2img.py 将视频转为图像集，默认1秒2张
 
 **3.X-AnyLabeling标注** 手动标注或AI标注（使用yolov8x），标签格式选择datasets/中的yolo.txt
 
-**4.数据源转数据集 **使用 split_train_val.py
+**4.数据源转数据集** 使用 split_train_val.py
