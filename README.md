@@ -22,3 +22,13 @@ This is a repository of CS405-Machine Learning project, relative to SUStech, obj
 split_train_val.py 将数据源制作成数据集
 
 video2img.py 将视频转为图像集，默认1秒2张
+
+### 数据集制作工作流
+
+**1. 数据拍摄**
+
+**2. 视频转图像集** 使用video2img.py
+
+**3.X-AnyLabeling标注** 手动标注或AI标注（使用yolov8x），标签格式选择datasets/中的yolo.txt
+
+**4.数据源转数据集 **使用 split_train_val.py
