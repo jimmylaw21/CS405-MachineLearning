@@ -1,4 +1,4 @@
-path: C:/Users/Administrator/Desktop/cs405/CS405-MachineLearning/datasets/data1
+path: ./data1
 train: images/train/
 val: images/val/
 # number of classes
