@@ -1,0 +1,100 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          887.77001953125,
+          365.305908203125
+        ],
+        [
+          1278.97705078125,
+          649.912841796875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "parking meter",
+      "text": "",
+      "points": [
+        [
+          851.1322631835938,
+          325.8956298828125
+        ],
+        [
+          910.6128540039062,
+          483.7557373046875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          523.6045532226562,
+          461.1376953125
+        ],
+        [
+          572.5426635742188,
+          495.5460205078125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          443.8404541015625,
+          466.153564453125
+        ],
+        [
+          485.500732421875,
+          493.32421875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          802.6307983398438,
+          465.48577880859375
+        ],
+        [
+          862.4918823242188,
+          537.0512084960938
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_52.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

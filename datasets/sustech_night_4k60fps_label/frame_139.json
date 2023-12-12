@@ -1,0 +1,28 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bus",
+      "text": "",
+      "points": [
+        [
+          141.25698852539062,
+          392.9378662109375
+        ],
+        [
+          412.4007263183594,
+          584.12255859375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_139.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

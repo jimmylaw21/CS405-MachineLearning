@@ -1,0 +1,46 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "truck",
+      "text": "",
+      "points": [
+        [
+          394.33514404296875,
+          446.2891845703125
+        ],
+        [
+          475.65948486328125,
+          522.9957275390625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "traffic light",
+      "text": "",
+      "points": [
+        [
+          327.58953857421875,
+          359.17694091796875
+        ],
+        [
+          344.96783447265625,
+          383.71405029296875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_136.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_109.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_117.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_120.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_123.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_124.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_126.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_143.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_156.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_162.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_54.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_55.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_62.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_8.jpg
+C:\Users\Administrator\Desktop\cs405\CS405-MachineLearning\dataset\sustech_night_4k60fpsframe_80.jpg

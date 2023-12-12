@@ -1,0 +1,136 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          809.7318115234375,
+          297.95660400390625
+        ],
+        [
+          1278.8526611328125,
+          634.1266479492188
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          800.5353393554688,
+          381.39495849609375
+        ],
+        [
+          869.5613403320312,
+          434.42083740234375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          621.6014404296875,
+          395.30462646484375
+        ],
+        [
+          639.3363037109375,
+          440.13702392578125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          469.650390625,
+          381.258544921875
+        ],
+        [
+          495.3187255859375,
+          448.51220703125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          12.76025390625,
+          558.808349609375
+        ],
+        [
+          1203.4608154296875,
+          710.12451171875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          581.9913330078125,
+          381.25494384765625
+        ],
+        [
+          603.7308349609375,
+          438.84515380859375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          666.7724609375,
+          380.22625732421875
+        ],
+        [
+          685.156982421875,
+          435.42230224609375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_32.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

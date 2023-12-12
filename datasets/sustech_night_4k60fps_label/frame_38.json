@@ -1,0 +1,190 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          804.8993530273438,
+          288.37274169921875
+        ],
+        [
+          870.4965209960938,
+          448.47845458984375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          1083.1702880859375,
+          242.5306396484375
+        ],
+        [
+          1155.9927978515625,
+          347.2882080078125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "motorcycle",
+      "text": "",
+      "points": [
+        [
+          591.3539428710938,
+          348.2802734375
+        ],
+        [
+          735.2138061523438,
+          435.773193359375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          641.434814453125,
+          304.6036376953125
+        ],
+        [
+          691.509765625,
+          411.8792724609375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bicycle",
+      "text": "",
+      "points": [
+        [
+          590.6375732421875,
+          350.4197998046875
+        ],
+        [
+          735.0357666015625,
+          435.4588623046875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "backpack",
+      "text": "",
+      "points": [
+        [
+          805.0743408203125,
+          298.593505859375
+        ],
+        [
+          849.351806640625,
+          350.06640625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bicycle",
+      "text": "",
+      "points": [
+        [
+          941.7601318359375,
+          313.5184326171875
+        ],
+        [
+          1278.5106201171875,
+          520.1793212890625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bicycle",
+      "text": "",
+      "points": [
+        [
+          1063.462890625,
+          371.06231689453125
+        ],
+        [
+          1277.84423828125,
+          556.3173217773438
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bicycle",
+      "text": "",
+      "points": [
+        [
+          847.4091796875,
+          351.82830810546875
+        ],
+        [
+          870.143310546875,
+          448.86590576171875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bicycle",
+      "text": "",
+      "points": [
+        [
+          945.050048828125,
+          408.8447265625
+        ],
+        [
+          1033.49609375,
+          517.1357421875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_38.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

@@ -1,0 +1,82 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          690.8078002929688,
+          405.6585693359375
+        ],
+        [
+          737.8032836914062,
+          451.6351318359375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          603.778564453125,
+          421.898193359375
+        ],
+        [
+          641.69775390625,
+          443.447509765625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "truck",
+      "text": "",
+      "points": [
+        [
+          690.9227294921875,
+          405.96435546875
+        ],
+        [
+          737.4571533203125,
+          451.881591796875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          7.8060302734375,
+          568.0159301757812
+        ],
+        [
+          1250.546875,
+          711.0734252929688
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_15.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

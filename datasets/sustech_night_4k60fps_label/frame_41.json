@@ -1,0 +1,100 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          5.6552734375,
+          529.7658081054688
+        ],
+        [
+          1276.458984375,
+          709.5278930664062
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          647.5465698242188,
+          370.16375732421875
+        ],
+        [
+          689.5411987304688,
+          402.11468505859375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bus",
+      "text": "",
+      "points": [
+        [
+          538.8477783203125,
+          332.6396484375
+        ],
+        [
+          611.3056640625,
+          411.11767578125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          709.8244018554688,
+          366.5966796875
+        ],
+        [
+          829.3026733398438,
+          460.2252197265625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "motorcycle",
+      "text": "",
+      "points": [
+        [
+          181.02566528320312,
+          393.71600341796875
+        ],
+        [
+          263.0831298828125,
+          442.22552490234375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_41.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

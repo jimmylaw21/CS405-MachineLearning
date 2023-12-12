@@ -1,0 +1,136 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          734.352783203125,
+          430.4638671875
+        ],
+        [
+          943.820556640625,
+          536.395263671875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          554.6728515625,
+          461.8077392578125
+        ],
+        [
+          592.017578125,
+          491.823486328125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bus",
+      "text": "",
+      "points": [
+        [
+          344.5422058105469,
+          385.04595947265625
+        ],
+        [
+          478.2927551269531,
+          528.9546508789062
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          938.5860595703125,
+          385.8453369140625
+        ],
+        [
+          1278.9027099609375,
+          702.5250244140625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          780.7928466796875,
+          413.31414794921875
+        ],
+        [
+          1095.3905029296875,
+          582.2453002929688
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          637.1063232421875,
+          437.727783203125
+        ],
+        [
+          820.3424072265625,
+          510.81884765625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          476.23040771484375,
+          465.00189208984375
+        ],
+        [
+          504.78363037109375,
+          495.31878662109375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_45.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

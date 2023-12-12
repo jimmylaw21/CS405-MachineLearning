@@ -1,0 +1,118 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          582.591552734375,
+          449.70074462890625
+        ],
+        [
+          617.22607421875,
+          476.29486083984375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          734.1251220703125,
+          428.0028076171875
+        ],
+        [
+          863.5343017578125,
+          518.6343994140625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          784.3583984375,
+          388.83197021484375
+        ],
+        [
+          1103.02099609375,
+          538.1282348632812
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bus",
+      "text": "",
+      "points": [
+        [
+          416.6387939453125,
+          387.67364501953125
+        ],
+        [
+          526.0111694335938,
+          502.74066162109375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          880.8087768554688,
+          373.7449951171875
+        ],
+        [
+          1279.583740234375,
+          700.6348876953125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "truck",
+      "text": "",
+      "points": [
+        [
+          416.90728759765625,
+          391.253662109375
+        ],
+        [
+          524.6156616210938,
+          502.9156494140625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_44.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

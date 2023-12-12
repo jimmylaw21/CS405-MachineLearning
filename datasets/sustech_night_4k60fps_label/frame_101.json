@@ -1,0 +1,64 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "stop sign",
+      "text": "",
+      "points": [
+        [
+          186.15481567382812,
+          366.084228515625
+        ],
+        [
+          229.50289916992188,
+          415.4102783203125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bus",
+      "text": "",
+      "points": [
+        [
+          368.78759765625,
+          471.2181396484375
+        ],
+        [
+          461.3045654296875,
+          523.3582763671875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "stop sign",
+      "text": "",
+      "points": [
+        [
+          1152.349609375,
+          3.38092041015625
+        ],
+        [
+          1279.421875,
+          413.665283203125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_101.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

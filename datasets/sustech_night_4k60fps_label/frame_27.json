@@ -1,0 +1,172 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          681.5099487304688,
+          305.578369140625
+        ],
+        [
+          798.2057495117188,
+          508.845947265625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          1097.255615234375,
+          203.0533447265625
+        ],
+        [
+          1253.618896484375,
+          584.4268798828125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          443.8936767578125,
+          356.27264404296875
+        ],
+        [
+          650.6522216796875,
+          479.78717041015625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          254.4796905517578,
+          382.323486328125
+        ],
+        [
+          410.78814697265625,
+          444.536865234375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          986.8887939453125,
+          251.20068359375
+        ],
+        [
+          1086.9605712890625,
+          578.1217041015625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "backpack",
+      "text": "",
+      "points": [
+        [
+          1113.033935546875,
+          268.33837890625
+        ],
+        [
+          1203.12890625,
+          392.076171875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          662.2757568359375,
+          380.0589599609375
+        ],
+        [
+          705.0059814453125,
+          413.5433349609375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          6.6748046875,
+          565.0361328125
+        ],
+        [
+          1211.106689453125,
+          710.438720703125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "backpack",
+      "text": "",
+      "points": [
+        [
+          969.06298828125,
+          303.29913330078125
+        ],
+        [
+          1056.925537109375,
+          415.57427978515625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_27.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

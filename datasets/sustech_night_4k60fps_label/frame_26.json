@@ -1,0 +1,226 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          973.3370361328125,
+          246.097900390625
+        ],
+        [
+          1073.2933349609375,
+          539.202880859375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          864.6528930664062,
+          276.0347900390625
+        ],
+        [
+          944.0558471679688,
+          537.685302734375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          780.749267578125,
+          308.8131103515625
+        ],
+        [
+          838.473388671875,
+          491.8687744140625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          453.7745056152344,
+          358.4266357421875
+        ],
+        [
+          617.2425537109375,
+          465.4886474609375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          195.86822509765625,
+          391.8253173828125
+        ],
+        [
+          319.8629150390625,
+          441.8897705078125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "backpack",
+      "text": "",
+      "points": [
+        [
+          849.939453125,
+          314.6583251953125
+        ],
+        [
+          909.5826416015625,
+          406.2117919921875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          659.8056640625,
+          377.04248046875
+        ],
+        [
+          712.947021484375,
+          419.317626953125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "motorcycle",
+      "text": "",
+      "points": [
+        [
+          226.25408935546875,
+          418.53607177734375
+        ],
+        [
+          280.8650817871094,
+          485.15972900390625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          1056.015380859375,
+          278.291015625
+        ],
+        [
+          1139.289306640625,
+          502.932373046875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "backpack",
+      "text": "",
+      "points": [
+        [
+          985.0740966796875,
+          297.0255126953125
+        ],
+        [
+          1055.6142578125,
+          389.2933349609375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "motorcycle",
+      "text": "",
+      "points": [
+        [
+          56.19758605957031,
+          408.343994140625
+        ],
+        [
+          163.206298828125,
+          490.67919921875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          2.403564453125,
+          548.02587890625
+        ],
+        [
+          1253.1533203125,
+          709.27685546875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_26.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

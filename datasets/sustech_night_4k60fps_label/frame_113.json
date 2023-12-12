@@ -1,0 +1,46 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bench",
+      "text": "",
+      "points": [
+        [
+          472.2413330078125,
+          490.0323486328125
+        ],
+        [
+          541.3228759765625,
+          524.2076416015625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bench",
+      "text": "",
+      "points": [
+        [
+          577.1373901367188,
+          492.098876953125
+        ],
+        [
+          687.4691772460938,
+          531.614990234375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_113.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

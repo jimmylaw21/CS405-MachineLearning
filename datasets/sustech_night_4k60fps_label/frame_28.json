@@ -1,0 +1,172 @@
+{
+  "version": "2.1.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          297.0301513671875,
+          367.842041015625
+        ],
+        [
+          462.26336669921875,
+          442.646728515625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "umbrella",
+      "text": "",
+      "points": [
+        [
+          1214.426513671875,
+          242.4915771484375
+        ],
+        [
+          1279.459716796875,
+          303.8572998046875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          450.91546630859375,
+          356.109619140625
+        ],
+        [
+          708.0026245117188,
+          481.58740234375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "person",
+      "text": "",
+      "points": [
+        [
+          1223.0928955078125,
+          268.92578125
+        ],
+        [
+          1279.5247802734375,
+          615.6552734375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          1.2977294921875,
+          563.629150390625
+        ],
+        [
+          1253.814208984375,
+          710.454833984375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "car",
+      "text": "",
+      "points": [
+        [
+          447.9715576171875,
+          347.0875244140625
+        ],
+        [
+          504.5792236328125,
+          477.5511474609375
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "traffic light",
+      "text": "",
+      "points": [
+        [
+          819.068359375,
+          291.759033203125
+        ],
+        [
+          839.10205078125,
+          319.319580078125
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "handbag",
+      "text": "",
+      "points": [
+        [
+          1248.5693359375,
+          345.8475341796875
+        ],
+        [
+          1279.591796875,
+          403.955810546875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "motorcycle",
+      "text": "",
+      "points": [
+        [
+          100.54084014892578,
+          399.5198974609375
+        ],
+        [
+          185.22491455078125,
+          502.4381103515625
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "..\\sustech_night_4k60fps\\frame_28.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}
